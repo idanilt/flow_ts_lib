@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "es2015"
+    ],
+    "module": "commonjs",
+    "target": "es5",
+    "strict": true,
+    "importHelpers": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "outDir": "dist",
+    "typeRoots": [
+      "./dist"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
