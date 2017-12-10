@@ -1,4 +1,6 @@
 # flow_ts_lib
+
+[![Join the chat at https://gitter.im/flow_ts_lib/Lobby](https://badges.gitter.im/flow_ts_lib/Lobby.svg)](https://gitter.im/flow_ts_lib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Boilerplate for creating a lib with libdef and .d.ts without any manual labor
 This is the basic for what I need
 But this subject is very important and undocumented
