@@ -14,3 +14,5 @@ The goal for this project is to help everybody that want to support ts and flow
 
 \* Definition for projects with types, for distribution with the artifacts.
 Meaning when you are working with types you don't need to creates a separate definition file and maintain it manually, it should reflect your lib
+
+test
